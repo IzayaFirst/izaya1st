@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/IzayaFirst/izaya1st/issues"
   },
-  "homepage": "https://github.com/IzayaFirst/izaya1st#readme"
+  "homepage": "https://github.com/IzayaFirst/izaya1st#readme",
+  "dependencies": {
+    "next": "^2.4.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
 }
