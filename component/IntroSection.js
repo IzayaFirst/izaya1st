@@ -33,31 +33,6 @@ class IntroSection extends Component {
                             padding-top: 30px;
                             padding-bottom: 30px
                         }
-                        .text-title {
-                            font-weight: normal !important;
-                            color: #fff !important;
-                            font-family:  'Open Sans', sans-serif;
-                            margin: 0px !important;
-                            word-wrap: break-word !important;
-                            font-size: 19px !important;
-                            line-height: 24px !important;
-                            letter-spacing: undefined !important;
-                            padding-top: 0px !important;
-                            padding-bottom: 0px !important;
-                            display: inline !important;
-                        }
-                        .text-head {
-                            font-weight: 700 !important;
-                            color: white !important;
-                            font-family:  'Open Sans', sans-serif;
-                            margin: 0px !important;
-                            word-wrap: break-word !important;
-                            font-size: 42px !important;
-                            line-height: 48px !important;
-                            letter-spacing: -0.6px !important;
-                            padding-top: 6px !important;
-                            padding-bottom: 6px !important;
-                        }
                         .avartar {
                                 width: 148px !important;
                                 height: 148px !important;
