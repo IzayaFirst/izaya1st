@@ -7,22 +7,22 @@ class IntroSection extends Component {
             <div>
                 <section className="content-bg">
                     <div className="header-ratioTable">
-
-                    </div>
-                    <div className="headerContainer">
-                        Hello world
+                        <div className="headerContainer">
+                            Hello world
+                        </div>
                     </div>
                 </section>   
                 <style jsx>
                     {`
                         .content-bg {
                             background-color: #e62117 !important;
+                            position: relative;
                         }
                         .header-ratioTable {
                                 position: relative;
-    display: table;
-    width: 200%;
-    table-layout: fixed;
+                                display: table;
+                                width: 200%;
+                                table-layout: fixed;
                         }
                         .headerContainer {
                                 padding-top: 20px;
