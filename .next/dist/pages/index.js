@@ -20,6 +20,10 @@ var _IntroSection = require('../component/IntroSection');
 
 var _IntroSection2 = _interopRequireDefault(_IntroSection);
 
+var _Timeline = require('../component/Timeline');
+
+var _Timeline2 = _interopRequireDefault(_Timeline);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var _jsxFileName = 'C:\\Users\\user\\Desktop\\patchara\\izaya1st\\pages\\index.js?entry';
@@ -29,19 +33,39 @@ exports.default = function () {
         'data-jsx': 3071633926,
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 6
+            lineNumber: 7
         }
     }, _react2.default.createElement(_Header2.default, {
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 7
+            lineNumber: 8
         }
     }), _react2.default.createElement(_IntroSection2.default, {
         __source: {
             fileName: _jsxFileName,
-            lineNumber: 8
+            lineNumber: 9
         }
-    }), _react2.default.createElement(_style2.default, {
+    }), _react2.default.createElement('div', { className: 'columns', 'data-jsx': 3071633926,
+        __source: {
+            fileName: _jsxFileName,
+            lineNumber: 10
+        }
+    }, _react2.default.createElement('div', { className: 'column', 'data-jsx': 3071633926,
+        __source: {
+            fileName: _jsxFileName,
+            lineNumber: 11
+        }
+    }, _react2.default.createElement(_Timeline2.default, {
+        __source: {
+            fileName: _jsxFileName,
+            lineNumber: 12
+        }
+    })), _react2.default.createElement('div', { className: 'column', 'data-jsx': 3071633926,
+        __source: {
+            fileName: _jsxFileName,
+            lineNumber: 14
+        }
+    })), _react2.default.createElement(_style2.default, {
         styleId: 3071633926,
         css: '\n                body {\n                    color: white;\n                    font-family: font-family: \'Open Sans\', sans-serif;\n                    letter-spacing: 0;\n                    font-weight: 400;\n                    font-style: normal;\n                    text-rendering: optimizeLegibility;\n                    -webkit-font-smoothing: antialiased;\n                }\n            '
     }));
