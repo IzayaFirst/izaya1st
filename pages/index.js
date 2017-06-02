@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
+import Header from '../component/Header';
 
 export default () => (
-    <div>Hello next</div>
+    <div><Header/></div>
 )
