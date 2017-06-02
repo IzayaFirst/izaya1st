@@ -6,6 +6,9 @@ class IntroSection extends Component {
         return (
             <div>
                 <section className="content-bg">
+                    <div className="header-ratioTable">
+
+                    </div>
                     <div className="headerContainer">
                         Hello world
                     </div>
@@ -14,6 +17,12 @@ class IntroSection extends Component {
                     {`
                         .content-bg {
                             background-color: #e62117 !important;
+                        }
+                        .header-ratioTable {
+                                position: relative;
+    display: table;
+    width: 200%;
+    table-layout: fixed;
                         }
                         .headerContainer {
                                 padding-top: 20px;

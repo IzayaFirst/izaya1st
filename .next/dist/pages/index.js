@@ -26,7 +26,7 @@ var _jsxFileName = 'C:\\Users\\user\\Desktop\\patchara\\izaya1st\\pages\\index.j
 
 exports.default = function () {
     return _react2.default.createElement('div', {
-        'data-jsx': 3555211859,
+        'data-jsx': 2256790201,
         __source: {
             fileName: _jsxFileName,
             lineNumber: 6
@@ -42,7 +42,7 @@ exports.default = function () {
             lineNumber: 8
         }
     }), _react2.default.createElement(_style2.default, {
-        styleId: 3555211859,
-        css: '\n                body {\n                    color: white\n                }\n            '
+        styleId: 2256790201,
+        css: '\n                body {\n                    color: white;\n                    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;\n                    letter-spacing: 0;\n                    font-weight: 400;\n                    font-style: normal;\n                    text-rendering: optimizeLegibility;\n                    -webkit-font-smoothing: antialiased;\n                }\n            '
     }));
 };
