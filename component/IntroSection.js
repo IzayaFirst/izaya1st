@@ -11,7 +11,7 @@ class IntroSection extends Component {
                             <div className="columns is-desktop">
                                  <div className="column is-4">
                                         <center>
-                                            <figure className="image is-128x128">
+                                            <figure className="image is-148x148">
                                                 <img className="avartar" src="/static/profile.jpg"/>
                                             </figure>
                                         </center>
@@ -19,7 +19,9 @@ class IntroSection extends Component {
                                  <div className="column is">
                                      <div className="text-head">Patchara1st</div>
                                      <div style={{marginTop: 20}}></div>
-                                     <div className="text-title">I'm Web Developer</div>
+                                     <div className="text-title">
+                                         Technology, Anime and Games, Passionate.  
+                                     </div>
                                  </div>
                             </div>
                         </div>
@@ -57,13 +59,16 @@ class IntroSection extends Component {
                             padding-bottom: 6px !important;
                         }
                         .avartar {
-                                width: 128px !important;
-                                height: 128px !important;
-                                border-radius: 128px !important;
+                                width: 148px !important;
+                                height: 148px !important;
+                                border-radius: 148px !important;
+                                border: #fff 2px solid
                         }
                         .content-bg {
                             background-color: #1A3C47 !important;
                             position: relative;
+                            z-index: 999;
+                            box-shadow: 0 2px 5px rgba(0, 0, 0, .5) !important;
                         }
                     `}
                 </style>
