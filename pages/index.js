@@ -10,7 +10,7 @@ export default () => (
             {`
                 body {
                     color: white;
-                    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+                    font-family: font-family: 'Open Sans', sans-serif;
                     letter-spacing: 0;
                     font-weight: 400;
                     font-style: normal;
