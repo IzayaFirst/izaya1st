@@ -6,11 +6,11 @@ class Timeline extends Component {
     render() {
         const timeline = [
             {
-                title: "Born into beautiful world",
-                desc: "8-01-1996 the wonderkid is borned to make this world better"
+                title: "Born on 8th January, 1996",
+                desc: "8th January, 1996 the wonderkid is borned to make this world better"
             },
             {
-                title: "Join Assumption Collage",
+                title: "Started school at Assumption Collage",
                 desc: "2002 join school at Assumption Collage"
             }, 
             {
@@ -18,9 +18,30 @@ class Timeline extends Component {
                 desc: "2014 Graduated from Assumption Collage in Math-Science"
             },
             {
-                title: "Join KMUTT",
+                title: "Started undergraduate program at KMUTT",
                 desc: "2015 Join King Mongkut's University of Technology Thonburi in major of Information Technology"
             },
+            {
+                title: "Join SIT Programming Bootcamp 2015",
+                desc: "Joining the programming camp as a challanger"
+            },
+            {
+                title: "Join SIT Programming Bootcamp 2016",
+                desc: "Joining the programming camp as a coach"
+            },
+            {
+                title: "Qualified in Nitad 2017 Innovation challange",
+                desc: "Qualified in last 20 teams"
+            },
+            {
+                title: "Join Startup Thailand League 2017",
+                desc: "Join KMUTT Hatch startup" 
+            },
+            {
+                title: "Start Internship program 2017 at Getlinks",
+                desc: "Be a intern at Getlinks as Web developer" 
+            }
+
         ]
         return (
             <div>
