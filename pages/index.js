@@ -27,7 +27,7 @@ export default () => (
                     -webkit-font-smoothing: antialiased;
                 }
                  .text-title {
-                            font-weight: normal !important;
+                            font-weight: normal;
                             color: #fff !important;
                             font-family:  'Open Sans', sans-serif;
                             margin: 0px !important;
@@ -53,6 +53,9 @@ export default () => (
                         }
                         .black {
                             color: black !important;
+                        }
+                        .large-font {
+                            font-weight: 600 !important;
                         }
             `}
         </style>

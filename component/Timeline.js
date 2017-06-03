@@ -27,7 +27,7 @@ class Timeline extends Component {
                 <div className="how-it-work-section ">
                     <div className="wrapper">
                         <div className="title-timeline">
-                             <div className="text-title black">
+                             <div className="text-title black large-font">
                                  My Milestone  
                              </div>
                         </div>
@@ -38,7 +38,6 @@ class Timeline extends Component {
                                 )
                             })
                         }
-
                     </div>
                 </div>
                  <style jsx>
@@ -83,7 +82,7 @@ class Timeline extends Component {
                             color: #1a3c48;
                         }
                         .timeline-info {
-                            padding: 100px 0px 30px 80px;
+                            padding: 10px 0px 30px 80px;
                             width: 75%;
                             border-left: dashed 1px #158cb4;
                             position: relative;

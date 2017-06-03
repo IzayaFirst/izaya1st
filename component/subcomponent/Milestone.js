@@ -39,7 +39,7 @@ class Milestone extends Component {
                         }
                         .timeline-no {
                             position: absolute;
-                            top: 45%;
+                           /* top: 45%;*/
                             left: -22px;
                         }
                         .timeline-title {
@@ -48,7 +48,7 @@ class Milestone extends Component {
                             color: #1a3c48;
                         }
                         .timeline-info {
-                            padding: 100px 0px 30px 80px;
+                            padding: 10px 0px 30px 80px;
                             width: 75%;
                             border-left: dashed 1px #158cb4;
                             position: relative;
