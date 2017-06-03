@@ -60,12 +60,7 @@ exports.default = function () {
             fileName: _jsxFileName,
             lineNumber: 12
         }
-    })), _react2.default.createElement('div', { className: 'column', 'data-jsx': 2492418834,
-        __source: {
-            fileName: _jsxFileName,
-            lineNumber: 14
-        }
-    })), _react2.default.createElement(_style2.default, {
+    }))), _react2.default.createElement(_style2.default, {
         styleId: 2492418834,
         css: '\n                body {\n                    color: white;\n                    font-family: font-family: \'Open Sans\', sans-serif;\n                    letter-spacing: 0;\n                    font-weight: 400;\n                    font-style: normal;\n                    text-rendering: optimizeLegibility;\n                    -webkit-font-smoothing: antialiased;\n                }\n                 .text-title {\n                            font-weight: normal;\n                            color: #fff !important;\n                            font-family:  \'Open Sans\', sans-serif;\n                            margin: 0px !important;\n                            word-wrap: break-word !important;\n                            font-size: 19px !important;\n                            line-height: 24px !important;\n                            letter-spacing: undefined !important;\n                            padding-top: 0px !important;\n                            padding-bottom: 0px !important;\n                            display: inline !important;\n                        }\n                        .text-head {\n                            font-weight: 700 !important;\n                            color: white ;\n                            font-family:  \'Open Sans\', sans-serif;\n                            margin: 0px !important;\n                            word-wrap: break-word !important;\n                            font-size: 42px !important;\n                            line-height: 48px !important;\n                            letter-spacing: -0.6px !important;\n                            padding-top: 6px !important;\n                            padding-bottom: 6px !important;\n                        }\n                        .black {\n                            color: black !important;\n                        }\n                        .large-font {\n                            font-weight: 600 !important;\n                        }\n            '
     }));

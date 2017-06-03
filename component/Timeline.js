@@ -49,7 +49,7 @@ class Timeline extends Component {
                     <div className="wrapper">
                         <div className="title-timeline">
                              <div className="text-title black large-font">
-                                 My Milestone  
+                                 Biography  
                              </div>
                         </div>
                         {

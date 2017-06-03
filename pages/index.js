@@ -11,9 +11,7 @@ export default () => (
             <div className="column">
                 <Timeline />
             </div>
-            <div className="column">
-                
-            </div>
+
         </div>
         <style jsx global>
             {`
